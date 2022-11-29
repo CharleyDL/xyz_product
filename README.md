@@ -1,2 +1,2 @@
 # XYZ Product - Purchaser Prediction
-XYZ Product - Predict Future Purchaser with social_networking_ads
+XYZ Product - Predict Future Purchaser for social_networking_ads
